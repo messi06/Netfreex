@@ -5,5 +5,4 @@ Enjoy free netflix, basically all you need to do is run our app , it will downlo
 No ADS , No Waiting , no money , no accounts , no credit cards...
 enjoy...
 
-[![Alt text](/1.jpg)
-[![Alt text](/2.jpg)
+![Alt text](/1.jpg)
