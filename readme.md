@@ -6,5 +6,4 @@ No ADS , No Waiting , no money , no accounts , no credit cards...
 enjoy...
 
 ![Alt text](/1.jpg)
-![Alt text](/netfreex-video.mp4.jpg)
-
+[![Watch the video](/1.jpg)](/netfreex-video.mp4)
